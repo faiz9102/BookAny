@@ -45,5 +45,8 @@
     </head>
     <body class="font-sans antialiased">
         @inertia
+        <div id="app"></div>
+@vite('resources/js/app.jsx')
+
     </body>
 </html>
